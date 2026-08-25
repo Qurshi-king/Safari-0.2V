@@ -8,9 +8,9 @@
 
 Chat with language models, give them a voice, and let them use tools — all on-device. No account, no cloud, no internet required.
 
-<a href="https://pocketpal.dev/"><strong>pocketpal.dev</strong></a> ·
+<a href="https://safari.dev/"><strong>pocketpal.dev</strong></a> ·
 <a href="#get-the-app">Get the app</a> ·
-<a href="https://pocketpal.dev/leaderboard">Leaderboard</a> ·
+<a href="https://safari.dev/leaderboard">Leaderboard</a> ·
 <a href="https://palshub.ai/">PalsHub</a> ·
 <a href="https://github.com/a-ghorbani/pocketpal-ai/discussions">Discussions</a>
 
